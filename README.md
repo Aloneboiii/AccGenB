@@ -16,29 +16,5 @@
 
 ### Deploy
 [![Deploy On Heroku 📨](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-## Vars
-```
-# Your app id get is from @usetgxbot or my.telegram.org
-APP_ID =
-
-# Your app hash get is from @usetgxbot or my.telegram.org
-API_HASH =
-
-# Your bot token get it from @botfather
-BOT_TOKEN =
-
-# Your telegram channel username
-CHANNEL_USERNAME =
-
-# Your telegram channel url for force subscribe
-CHANNEL_URL =
-
-# Log channel ID
-LOGS =
-
-
-
-
 ## Credits
-[TELETHON](T.ME/mrvirus_xd]
+[Telethon](t.me/mrvirus_xd)
