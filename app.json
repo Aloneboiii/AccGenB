@@ -8,8 +8,8 @@
         "telegram",
         "bots"
     ],
-    "website": "https://t.me/BotzCity",
-    "repository": "https://github.com/BotzCity/AccGenBot",
+    "website": "https://t.me/LinusTechTips90",
+    "repository": "https://github.com/infotechbro/AccGenB",
     "success_url": "https://telegram.dog/BotzCity",
     "stack": "container",
     "env": {
